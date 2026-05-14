@@ -1,85 +1,125 @@
-# 👋 Hi, I'm Mahmoud Elshabrawy
+# 🧠 Mahmoud Elshabrawy  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mahmoud-elshabrawy-5616581a7/)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-brightgreen?style=flat&logo=researchgate)](https://www.researchgate.net/profile/Mahmoud-Mohammed-20)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Follow-blue?style=flat&logo=kaggle)](https://www.kaggle.com/mahmoudelshabrawy)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:mshabrawy281@gmail.com)
+### Data Science Specialist · NLP Expert · Metaheuristic Algorithm Designer  
 
----
-
-### 🧠 About Me
-
-Data Science Specialist | NLP Expert | M.Sc. Researcher in Computer Engineering  
-Passionate about AI development, metaheuristic optimization, and building real‑world machine learning solutions.  
-Currently pursuing my **M.Sc. at Mansoura University** — thesis: *Optimize Large Language Models for Earthquakes Prediction and Engineering Designs*.
+<p align="left">
+  <a href="https://www.linkedin.com/in/mahmoud-elshabrawy-5616581a7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.researchgate.net/profile/Mahmoud-Mohammed-20"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white" /></a>
+  <a href="https://www.kaggle.com/mahmoudelshabrawy"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" /></a>
+  <a href="https://github.com/Mshabrawy-m"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" /></a>
+  <a href="mailto:mshabrawy281@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://orcid.org/your-id"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white" /></a> <!-- add actual ID -->
+</p>
 
 ---
 
-### 🔥 Expertise
+### 👨‍🔬 About Me  
 
-- **🤖 Machine Learning & Deep Learning** – scikit-learn, PyTorch, CNNs, LSTMs, ensemble methods  
-- **📊 Data Science & Visualization** – Pandas, NumPy, Plotly, Streamlit dashboards  
-- **🧠 Natural Language Processing** – Transformers, LLMs (Groq/Llama), NLTK, spaCy  
-- **🔍 Metaheuristic Optimization** – Designing novel algorithms (FbOA, NiOA, iHow, OcOA) for feature selection and engineering  
-- **💻 Software Development** – FastAPI, Streamlit, REST APIs, Git, LaTeX  
+M.Sc. researcher in Computer & Systems Engineering at **Mansoura University**, Egypt, investigating *Large Language Models for earthquake prediction and engineering design*. I specialize in building innovative machine learning systems, creating novel metaheuristic optimization algorithms, and delivering end‑to‑end AI solutions. With **20+ publications**, multiple peer‑review excellence awards, and a strong background in NLP and data science, I am passionate about translating cutting‑edge research into real‑world impact.
 
 ---
 
-### 📌 Pinned Projects
+### 🎓 Education  
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| [**Brain Tumor MRI AI Assistant**](https://github.com/Mshabrawy-m/BrainTumor) | PyTorch CNN classifies brain tumors + Groq clinical LLM chatbot | PyTorch, Streamlit, Groq |
-| [**Weather Data Analysis System**](https://github.com/Mshabrawy-m/Rainfall) | Egyptian cities weather analysis (2000–2024), forecasting & chatbot | Python, Prophet, LLM |
-| [**InsightX Exchange**](https://github.com/Mshabrawy-m/InsightX-Exchange) | LLM-based marketing & trading assistant with financial analytics | FastAPI, yfinance, Groq |
-| [**UrbanSense AI**](https://github.com/Mshabrawy-m/UrbanSense) | Real‑time urban noise prediction using weather APIs & ML | scikit-learn, Open-Meteo |
-| [**Smart Education System**](https://github.com/Mshabrawy-m?tab=repositories) | Graduation project: AI chatbot for academic support from PDFs | Python, NLP, FastAPI |
+- **M.Sc. Computer & Systems Engineering** – Mansoura University *(2024 – Present)*  
+  Pre‑master GPA: **3.928** (A‑) · Thesis: *Optimize Large Language Models for Earthquakes Prediction and Engineering Designs*
+- **B.Sc. Communication & Electronics Engineering** (Computer Science major) – Delta Higher Institute for Engineering & Technology  
+  Graduation Project: *Smart Education System* – AI chatbot for PDF‑based academic guidance
 
 ---
 
-### 📚 Selected Publications (20+ papers)
+### 🔬 Research Interests  
 
-- [Football Optimization Algorithm: A Novel Metaheuristic Inspired by Team Strategy Dynamics](https://doi.org/10.54216/JAIM.080103) — *JAIM, 2024*  
-- [iHow Optimization Algorithm: Human‑Inspired Metaheuristic for Feature Selection](https://doi.org/10.21608/jaiep.2024.386694) — *JAIEP, 2024*  
-- [Potato Irrigation Suitability via Ninja Optimization‑Tuned RegNet](https://doi.org/10.1007/s11540-025-09990-7) — *Potato Research, 2026*  
-- *See all on* [ResearchGate](https://www.researchgate.net/profile/Mahmoud-Mohammed-20) or [Google Scholar](https://scholar.google.com/citations?user=YOUR_ID) *(update link)*
+`Machine Learning` `Deep Learning` `NLP` `LLMs` `Time Series Forecasting` `Metaheuristic Optimization` `Computer Vision` `Explainable AI` `Smart Cities` `Sustainable Energy`
 
 ---
 
-### 🏆 Certifications & Academic Contributions
+### 📚 Featured Publications  
 
-- 🎤 **IET SCS 2025 Speaker** – *Optimizing Feature Selection in Medical Data: Hybrid Grey Wolf–PSO* – Univ. of Bahrain  
-- ✍️ **Peer‑Review Excellence** – Awards from *Archives of Current Research Int.*, *Asian J. Agri. Ext. Econ. Soc.*, *J. Sci. Res. Reports* (2025)  
+*20+ papers in journals and conferences – full list on [ResearchGate](https://www.researchgate.net/profile/Mahmoud-Mohammed-20)*  
 
----
+| # | Title | Journal / Conference | Year | DOI |
+|---|-------|---------------------|------|-----|
+| 1 | **Football Optimization Algorithm (FbOA)** | J. Artif. Intell. Mach. Learn. | 2024 | [10.54216/JAIM.080103](https://doi.org/10.54216/JAIM.080103) |
+| 2 | **iHow Optimization Algorithm** | J. Artif. Intell. Eng. Pract. | 2024 | [10.21608/jaiep.2024.386694](https://doi.org/10.21608/jaiep.2024.386694) |
+| 3 | **Potato Irrigation via Ninja Optimization‑RegNet** | Potato Research | 2026 | [10.1007/s11540-025-09990-7](https://doi.org/10.1007/s11540-025-09990-7) |
+| 4 | **Malaria Risk Prediction Review** | Mod. Oper. Res. | 2024 | [10.54216/MOR.010105](https://doi.org/10.54216/MOR.010105) |
+| 5 | **Earthquake Intelligence & LLMs** | Mod. Oper. Res. | 2026 | [10.54216/MOR.050101](https://doi.org/10.54216/MOR.050101) |
+| 6 | **Brain Tumor Classification (CNN + LLM)** | ICEEM Conf. | 2025 | [10.1109/ICEEM66692.2025.11225203](https://doi.org/10.1109/ICEEM66692.2025.11225203) |
 
-### 🛠️ Skills & Tools
-
-`Python` `SQL` `scikit-learn` `PyTorch` `Pandas` `NumPy` `Streamlit` `FastAPI` `Transformers` `LLMs` `OpenCV` `Plotly` `Git` `LaTeX` `Metaheuristics`
-
----
-
-### 🎓 Education
-
-- **M.Sc. Computer & Systems Engineering**, Mansoura University *(2024–present)* – GPA: 3.928  
-- **B.Sc. Communication & Electronics Engineering** (Computer Science major) – Delta Higher Institute for Eng. & Tech.
+*...and many more on [Google Scholar](https://scholar.google.com/citations?user=YOUR_ID)* (update link)
 
 ---
 
-### 🤝 Volunteering & Leadership
+### 🛠️ Selected Projects  
 
-- Community Lead – **IHOW Community** (AI workshops & events)  
-- Invited Speaker – Google Info Session, Delta Higher Institute  
-- AI Workshop Instructor – IHOW Community  
-
----
-
-### 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-elshabrawy-5616581a7/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mshabrawy-m)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mshabrawy281@gmail.com)
+| Project | Description | Core Stack |
+|--------|-------------|------------|
+| 🧠 [**Brain Tumor MRI AI Assistant**](https://github.com/Mshabrawy-m/BrainTumor) | PyTorch CNN classifies 4 tumor types + Groq/Llama 3 clinical chatbot for diagnosis explanations | `PyTorch` `Streamlit` `Groq API` |
+| 🌦️ [**Weather Data Analysis System**](https://github.com/Mshabrawy-m/Rainfall) | 24‑year Egyptian weather analysis, forecasting, and intelligent chatbot | `Python` `Prophet` `LLM` |
+| 📈 [**InsightX Exchange**](https://github.com/Mshabrawy-m/InsightX-Exchange) | Integrated marketing & trading assistant powered by LLMs and real financial data | `FastAPI` `yfinance` `Groq` |
+| 🔊 [**UrbanSense AI**](https://github.com/Mshabrawy-m/UrbanSense) | Real‑time urban noise prediction using ML, acoustic physics, and live weather APIs | `scikit-learn` `Open‑Meteo` |
+| 🎓 **Smart Education System** | Graduation project: conversational AI that answers student queries by reading PDFs | `Python` `NLP` `FastAPI` |
 
 ---
 
-⭐ *Feel free to explore my repositories and reach out for collaborations!*
+### ✍️ Peer Review & Academic Service  
+
+Recognised for maintaining high scholarly standards with **three** Certificates of Excellence in Reviewing:  
+
+- 🏅 **Archives of Current Research International**  
+- 🏅 **Asian Journal of Agricultural Extension, Economics & Sociology**  
+- 🏅 **Journal of Scientific Research and Reports**  
+
+Also presented *“Optimizing Feature Selection in Medical Data: Hybrid Grey Wolf–PSO”* at the **9th IET Smart Cities Symposium (IET SCS 2025)** – University of Bahrain.
+
+---
+
+### 🧰 Skills & Tools  
+
+**Languages & Libraries**  
+`Python` `SQL` `scikit-learn` `PyTorch` `Pandas` `NumPy` `NLTK` `spaCy` `OpenCV` `Transformers`
+
+**Frameworks & Deployment**  
+`Streamlit` `FastAPI` `REST APIs` `Git` `GitHub Actions`
+
+**Specialties**  
+Machine Learning · Deep Learning · NLP · LLMs (Groq, Llama) · Metaheuristics · Data Visualization (Plotly, Seaborn) · LaTeX Writing
+
+---
+
+### 🤝 Volunteering & Leadership  
+
+- **Community Lead** – IHOW Community (AI & tech workshops, knowledge sharing)  
+- **Invited Speaker** – Google Info Session, Delta Higher Institute for Engineering & Technology  
+- **Workshop Instructor** – Hands‑on AI and machine learning sessions  
+
+---
+
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mshabrawy-m&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mshabrawy-m&theme=radical" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mshabrawy-m&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Let’s Connect  
+
+I’m always open to research collaborations, interesting projects, and knowledge sharing.  
+📧 **mshabrawy281@gmail.com** | 📱 **+20 106 246 3194** (Egypt)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mahmoud-elshabrawy-5616581a7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Mshabrawy-m"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:mshabrawy281@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+⭐ *Thank you for visiting! Check out my repositories and let’s build something impactful together.*
