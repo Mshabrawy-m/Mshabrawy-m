@@ -5,10 +5,11 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/mahmoud-elshabrawy-5616581a7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.researchgate.net/profile/Mahmoud-Mohammed-20"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white" /></a>
+  <a href="https://scholar.google.com/citations?user=HiY59pMAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white" /></a>
   <a href="https://www.kaggle.com/mahmoudelshabrawy"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" /></a>
   <a href="https://github.com/Mshabrawy-m"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" /></a>
   <a href="mailto:mshabrawy281@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://orcid.org/your-id"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white" /></a> <!-- add actual ID -->
+  <!-- Add your ORCID badge if available -->
 </p>
 
 ---
@@ -36,7 +37,7 @@ M.Sc. researcher in Computer & Systems Engineering at **Mansoura University**, E
 
 ### 📚 Featured Publications  
 
-*20+ papers in journals and conferences – full list on [ResearchGate](https://www.researchgate.net/profile/Mahmoud-Mohammed-20)*  
+*20+ papers in journals and conferences – full list on [ResearchGate](https://www.researchgate.net/profile/Mahmoud-Mohammed-20) and [Google Scholar](https://scholar.google.com/citations?user=HiY59pMAAAAJ&hl=en)*  
 
 | # | Title | Journal / Conference | Year | DOI |
 |---|-------|---------------------|------|-----|
@@ -46,8 +47,6 @@ M.Sc. researcher in Computer & Systems Engineering at **Mansoura University**, E
 | 4 | **Malaria Risk Prediction Review** | Mod. Oper. Res. | 2024 | [10.54216/MOR.010105](https://doi.org/10.54216/MOR.010105) |
 | 5 | **Earthquake Intelligence & LLMs** | Mod. Oper. Res. | 2026 | [10.54216/MOR.050101](https://doi.org/10.54216/MOR.050101) |
 | 6 | **Brain Tumor Classification (CNN + LLM)** | ICEEM Conf. | 2025 | [10.1109/ICEEM66692.2025.11225203](https://doi.org/10.1109/ICEEM66692.2025.11225203) |
-
-*...and many more on [Google Scholar](https://scholar.google.com/citations?user=YOUR_ID)* (update link)
 
 ---
 
@@ -96,16 +95,28 @@ Machine Learning · Deep Learning · NLP · LLMs (Groq, Llama) · Metaheuristics
 
 ---
 
-### 📊 GitHub Stats  
+## 📊 GitHub Stats & Activity  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mshabrawy-m&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mshabrawy-m&theme=radical" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mshabrawy-m&show_icons=true&theme=radical&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mshabrawy-m&theme=radical" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mshabrawy-m&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mshabrawy-m&layout=compact&theme=radical&hide=jupyter%20notebook" width="40%" />
 </p>
+
+<!-- GitHub Profile Trophy -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mshabrawy-m&theme=radical&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+<!-- Contribution Graph (optional, uncomment if you want a timeline) -->
+<!--
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mshabrawy-m&theme=react-dark&area=true&hide_border=true" width="95%" />
+</p>
+-->
 
 ---
 
