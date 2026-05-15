@@ -45,8 +45,8 @@ M.Sc. researcher in Computer & Systems Engineering at **Mansoura University**, E
 | 2 | **iHow Optimization Algorithm** | J. Artif. Intell. Eng. Pract. | 2024 | [10.21608/jaiep.2024.386694](https://doi.org/10.21608/jaiep.2024.386694) |
 | 3 | **Potato Irrigation via Ninja Optimization‑RegNet** | Potato Research | 2026 | [10.1007/s11540-025-09990-7](https://doi.org/10.1007/s11540-025-09990-7) |
 | 4 | **Malaria Risk Prediction Review** | Mod. Oper. Res. | 2024 | [10.54216/MOR.010105](https://doi.org/10.54216/MOR.010105) |
-| 5 | **Earthquake Intelligence & LLMs Review ** | Mod. Oper. Res. | 2026 | [10.54216/MOR.050101](https://doi.org/10.54216/MOR.050101) |
-| 6 | **Brain Tumor Classification ** | ICEEM Conf. | 2025 | [10.1109/ICEEM66692.2025.11225203](https://doi.org/10.1109/ICEEM66692.2025.11225203) |
+| 5 | **Earthquake Intelligence & LLMs Review** | Mod. Oper. Res. | 2026 | [10.54216/MOR.050101](https://doi.org/10.54216/MOR.050101) |
+| 6 | **Brain Tumor Classification** | ICEEM Conf. | 2025 | [10.1109/ICEEM66692.2025.11225203](https://doi.org/10.1109/ICEEM66692.2025.11225203) |
 
 ---
 
